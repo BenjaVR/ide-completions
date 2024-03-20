@@ -1,0 +1,14 @@
+{
+  "include": ["**/*.ts"],
+  "compilerOptions": {
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true,
+    "module": "NodeNext",
+    "target": "ES2022",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": "."
+  }
+}

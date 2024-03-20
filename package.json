@@ -1,0 +1,12 @@
+{
+  "name": "ide-completions",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "5.4.3"
+  },
+  "dependencies": {
+    "remix-utils": "7.5.0"
+  }
+}
